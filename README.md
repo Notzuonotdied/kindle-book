@@ -1,5 +1,3 @@
-<p><strong>kindle-book</strong></p>
-
 # Linux
 
  - 鸟哥的私房菜（第四版）
