@@ -6,6 +6,11 @@
 
  - Python学习手册
  
+# Kotlin 
+
+ - kotlin-for-android-developers中文翻译
+ - kotlin-doc
+ 
 # Algorithm
 
  - 数学之美
