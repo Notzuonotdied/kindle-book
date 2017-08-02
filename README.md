@@ -18,7 +18,12 @@
 
  - 《鸟哥的私房菜（第四版）》
  - 《[开源世界旅行手册](http://docs.huihoo.com/open-source/guide/)》
- 
+
+# GIT
+
+ - 《Git权威指南》
+ - 《Git Best Practices Guide》
+
 # <font color=blue>Python</font>
 
  - 《Python学习手册》
