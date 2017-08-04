@@ -2,7 +2,7 @@
 
 # <font color=blue>大数据</font>
 
- - 《大数据时代：生活,工作与思维的大变革》
+ - 《[大数据时代：生活,工作与思维的大变革](https://github.com/wangyu892449346/kindle-book/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3%EF%BC%9A%E7%94%9F%E6%B4%BB%2C%E5%B7%A5%E4%BD%9C%E4%B8%8E%E6%80%9D%E7%BB%B4%E7%9A%84%E5%A4%A7%E5%8F%98%E9%9D%A9.mobi)》
 	 - 数据的**真实价值**就像漂浮在海洋中的冰山，第一眼只能看到冰山一角，而绝大部分则隐藏在表面之下。
 	 - **错误**并不是大数据**固有的特性**，而是一个亟需我们去处理的现实问题，并且有可能长期存在。
 	 - 大数据不仅仅让我们不再期待**精确性**，也让我们无法实现准确性。
@@ -13,18 +13,18 @@
 	 - 系统可以通过一种“反馈学习”的机制，利用自己产生的数据判断自身算法和参数选择的有效性，并实时进行调整，持续改进自身的表现。
 	 - 大数据是人们获得新的认知、创造新的价值的源泉；大数据还是改变市场、组织机构，以及政府与公民关系的方法。
 	 - （大数据）以一种前所未有的方式，通过对海量数据进行分析，获得有巨大价值的产品和服务，或深刻的洞见。
- - 《智能时代 (吴军)》
+ - 《[智能时代 (吴军)](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3.azw)》
 	 - 人类在机器智能领域的成就，其实就是**不断地把各种智能 问题转化成消除不确定性的问题**，然后再找到能够消除相应不确定性的信息， 如此而已。
 	 
 # <font color=blue>Linux</font>
 
- - 《鸟哥的私房菜（第四版）》
+ - 《[鸟哥的私房菜（第四版）](https://github.com/wangyu892449346/kindle-book/blob/master/AZW3%E6%A0%BC%E5%BC%8F-%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%20%E7%AC%AC%E5%9B%9B%E7%89%88.azw3)》
  - 《[开源世界旅行手册](http://docs.huihoo.com/open-source/guide/)》
 
 # GIT
 
- - 《Git权威指南》
- - 《Git Best Practices Guide》
+ - 《[Git权威指南](https://github.com/wangyu892449346/kindle-book/blob/master/Git%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.azw3)》
+ - 《[Git Best Practices Guide](https://github.com/wangyu892449346/kindle-book/blob/master/Git%20Best%20Practices%20Guide.azw3)》
 
 # <font color=blue>Python</font>
 
@@ -32,23 +32,23 @@
  
 # <font color=blue>Kotlin</font> 
 
- - 《kotlin-for-android-developers中文翻译》
- - 《kotlin-doc》
+ - 《[kotlin-for-android-developers中文翻译](https://github.com/wangyu892449346/kindle-book/blob/master/kotlin-for-android-developers%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91.azw3)》
+ - 《[kotlin-doc](https://github.com/wangyu892449346/kindle-book/blob/master/kotlin-docs.azw3)》
  
 # <font color=blue>Algorithm</font>
 
- - 《数学之美》
- - 《终极算法：机器学习和人工智能如何重塑世界》
- - 《程序员的数学思维修炼-趣味解读》
+ - 《[数学之美](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.mobi)》
+ - 《[终极算法：机器学习和人工智能如何重塑世界](https://github.com/wangyu892449346/kindle-book/blob/master/%E7%BB%88%E6%9E%81%E7%AE%97%E6%B3%95%EF%BC%9A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%B8%96%E7%95%8C.azw)》
+ - 《[程序员的数学思维修炼-趣味解读](https://github.com/wangyu892449346/kindle-book/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4%E4%BF%AE%E7%82%BC-%E8%B6%A3%E5%91%B3%E8%A7%A3%E8%AF%BB.mobi)》
  
 # <font color=blue>知乎</font>
 
- - 《深度学习的艺术：知乎采铜自选集 (知乎「盐」系列)》
+ - 《[深度学习的艺术：知乎采铜自选集 (知乎「盐」系列)](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%89%BA%E6%9C%AF%EF%BC%9A%E7%9F%A5%E4%B9%8E%E9%87%87%E9%93%9C%E8%87%AA%E9%80%89%E9%9B%86%20(%E7%9F%A5%E4%B9%8E%E3%80%8C%E7%9B%90%E3%80%8D%E7%B3%BB%E5%88%97)_B00OH7B740.azw3)》
  
 # <font color=blue>心理</font>
 
- - 《天才在左疯子在右》
- - 《欧洲最受欢迎的思维方法（《赢者思维》精华本）》
+ - 《[天才在左疯子在右](https://github.com/wangyu892449346/kindle-book/blob/master/%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3.azw)》
+ - 《[欧洲最受欢迎的思维方法（《赢者思维》精华本）](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%80%9D%E7%BB%B4%E6%96%B9%E6%B3%95%EF%BC%88%E3%80%8A%E8%B5%A2%E8%80%85%E6%80%9D%E7%BB%B4%E3%80%8B%E7%B2%BE%E5%8D%8E%E6%9C%AC%EF%BC%89.azw3)》
 	 - 在五彩缤纷的大千世界中学习如何获得生活经验，在枯燥乏味中学习如何发现生动的生活色彩，是赢者要具备的多维生活。生活不再是平面和二维的了，而是变成三维甚至是四维，变得比现实更现实，这正是我们必须学习的技能。它不是仅靠“智慧箴言”或“保持积极的心态”就能得到的。它是通过智慧和聪明的眼睛，真正看到和认识这个世界而获得的。
 	 - 真正的赢者应该是多维度的人，他应该在事业和个人生活上都过得丰富多彩。他们不仅能充分享受生活的每一天，而且能感染周围的每一个人。他们那真性的内心充满了平和与满足，比任何奖杯、名誉和金钱，都能提供更多的幸福和快乐。
 	 - **要想改变自己的生活，就要把知识学透、学全并付诸实践。**
@@ -61,9 +61,9 @@
  
 # <font color=blue>文学</font>
 
- - 《周国平：我的心灵自传》
- - 《追风筝的人》
- - 《爱读书的孩子，不会变坏 (宋怡慧 著)》
+ - 《[周国平：我的心灵自传](https://github.com/wangyu892449346/kindle-book/blob/master/%E5%91%A8%E5%9B%BD%E5%B9%B3%EF%BC%9A%E6%88%91%E7%9A%84%E5%BF%83%E7%81%B5%E8%87%AA%E4%BC%A0.mobi)》
+ - 《[追风筝的人](https://github.com/wangyu892449346/kindle-book/blob/master/%E8%BF%BD%E9%A3%8E%E7%AD%9D%E7%9A%84%E4%BA%BA.azw)》
+ - 《[爱读书的孩子，不会变坏 (宋怡慧 著)](https://github.com/wangyu892449346/kindle-book/blob/master/%E7%88%B1%E8%AF%BB%E4%B9%A6%E7%9A%84%E5%AD%A9%E5%AD%90%EF%BC%8C%E4%B8%8D%E4%BC%9A%E5%8F%98%E5%9D%8F.azw)》
 	 - 即使满腹经纶，但没有好的口才来授课，也会让学生听得昏昏欲睡、不知所云呢！即使满腔热血，没有好的口才来凝聚共识，也会让这份理想温暖黯淡无光。但是，好的说话之道，也要有一颗赤诚的心、诚恳的情来润饰，否则，很难做到说好话、做好事、做好人的成果！
 	 - 如果犯人没有真心忏悔自己的过错，判他死刑，反而让他解脱了。他从头到尾背负的只是一具虚无的十字架，对他没有任何意义；但犯人若真心忏悔自己的罪，为什么不给他一个机会，背负真正沉重的十字架，用赎罪的心活在世上，回馈这个社会？——《虚无的十字架》
 	 - **现代的文盲，不是看不懂字句，而是不愿意学习，不愿意阅读的人。若你想保持与世界接轨的能力与旺盛的学习动机，阅读是最好的途径。**
@@ -79,12 +79,12 @@
 	 - “**每个人的心里都住着一个小孩。**”受欢迎的成长小说，不仅写出青少年的寂寥，也让长大后的成年人，能透过文字阅读，有一种失落的青春被作家懂得了；年轻生命的茫然无依，被作家明白了；被伤过的心，痛过的情，在作家的文字中被疗愈了。
 	 - 现在的我可以很轻松地为家长写出许多适合孩子阅读的成长小说，也能很专业地告诉家长：成长小说之所以适合青少年，真正的原因是它疗愈青少年的孤单、创痛、寂寞的情感，在相似的生命困境中，孩子被读懂了，困境被体会了，寂寞的灵魂就能被解救出来了。
 	 - “难道老师在阅读同一本书时，会因为年纪不同，而有不同的想法吗？”男孩充满疑惑地提问。 “如果要真实呈现重读经典的心情，很像是张潮在《幽梦影》所说：‘**少年读书，如隙中窥月；中年读书，如庭中望月；老年读书，如台上玩月。皆以阅历之浅深，为所得之浅深耳。**’重读经典对我而言，似乎为生命带来不同的冲击与启发。”
- - 《朱自清散文》
+ - 《[朱自清散文](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87.azw3)》
 
 # <font color=blue>面试</font>
 
-  - 《谁是谷歌想要的人才》
+  - 《[谁是谷歌想要的人才](https://github.com/wangyu892449346/kindle-book/blob/master/%E8%B0%81%E6%98%AF%E8%B0%B7%E6%AD%8C%E6%83%B3%E8%A6%81%E7%9A%84%E4%BA%BA%E6%89%8D-bda7.mobi)》
 
 # <font color=blue>小说</font>
 
- - 《量子窃贼（The Quantum Thief）》
+ - 《[量子窃贼（The Quantum Thief）](https://github.com/wangyu892449346/kindle-book/blob/master/%E9%87%8F%E5%AD%90%E7%AA%83%E8%B4%BC%EF%BC%88The%20Quantum%20Thief%EF%BC%89.azw3)》
