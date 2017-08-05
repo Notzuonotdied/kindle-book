@@ -1,6 +1,4 @@
-
-
-# <font color=blue>大数据</font>
+# 大数据
 
  - 《[大数据时代：生活,工作与思维的大变革](https://github.com/wangyu892449346/kindle-book/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3%EF%BC%9A%E7%94%9F%E6%B4%BB%2C%E5%B7%A5%E4%BD%9C%E4%B8%8E%E6%80%9D%E7%BB%B4%E7%9A%84%E5%A4%A7%E5%8F%98%E9%9D%A9.mobi)》
 	 - 数据的**真实价值**就像漂浮在海洋中的冰山，第一眼只能看到冰山一角，而绝大部分则隐藏在表面之下。
@@ -16,7 +14,7 @@
  - 《[智能时代 (吴军)](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3.azw)》
 	 - 人类在机器智能领域的成就，其实就是**不断地把各种智能 问题转化成消除不确定性的问题**，然后再找到能够消除相应不确定性的信息， 如此而已。
 	 
-# <font color=blue>Linux</font>
+# Linux
 
  - 《[鸟哥的私房菜（第四版）](https://github.com/wangyu892449346/kindle-book/blob/master/AZW3%E6%A0%BC%E5%BC%8F-%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%20%E7%AC%AC%E5%9B%9B%E7%89%88.azw3)》
  - 《[开源世界旅行手册](http://docs.huihoo.com/open-source/guide/)》
@@ -26,26 +24,41 @@
  - 《[Git权威指南](https://github.com/wangyu892449346/kindle-book/blob/master/Git%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.azw3)》
  - 《[Git Best Practices Guide](https://github.com/wangyu892449346/kindle-book/blob/master/Git%20Best%20Practices%20Guide.azw3)》
 
-# <font color=blue>Python</font>
+# Python
 
  - 《Python学习手册》
  
-# <font color=blue>Kotlin</font> 
+# Kotlin 
 
  - 《[kotlin-for-android-developers中文翻译](https://github.com/wangyu892449346/kindle-book/blob/master/kotlin-for-android-developers%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91.azw3)》
  - 《[kotlin-doc](https://github.com/wangyu892449346/kindle-book/blob/master/kotlin-docs.azw3)》
  
-# <font color=blue>Algorithm</font>
+# Algorithm
 
- - 《[数学之美](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.mobi)》
+ - 《[数学之美（吴军）](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.mobi)》
+	 - [梁南元——书面汉语自动分词系统](http://www.touchwrite.com/demo/LiangNanyuan-JCIP-1987.pdf)
+	 - [郭　进——统计语言模型和汉语音字转换的一些新结果](http://www.touchwrite.com/demo/GuoJin-JCIP-1993.pdf)
+	 - [郭　进——Critical Tokenization and its Properties](http://acl.ldc.upenn.edu/J/J97/J97-4004.pdf)
+	 - [孙茂松——Chinese word segmentation without using lexicon and hand-crafted training data](http://portal.acm.org/citation.cfm?coll=GUIDE&dl=GUIDE&id=980775)
+	 - 那么怎么根据接收到的信息来推测说话者想表达的意思呢？我们可以利用叫做"**隐含马尔可夫模型**"（Hidden Markov Model）来解决这些问题。
+	 - 《**语信息熵和语言模型的复杂度**》
+	 - 对信息论有兴趣又有一定数学基础的读者，可以阅读斯坦福大学**托马斯.科弗 (Thomas Cover) 教授**的专著 ["信息论基础"(Elements of Information Theory)](http://www.amazon.com/gp/product/0471062596/ref=nosim/103-7880775-7782209?n=283155http://www.cnforyou.com/query/bookdetail1.asp?viBookCode=17909)
+	 - **信息指纹**
+	 - 在网络搜索的研发中，我们在前面提到的单文本词频/逆文本频率指数（TF/IDF) 和网页排名（page rank)都相当于是网络搜索中的"椭圆模型"，它们都很简单易懂。
+	 - **信息处理**的很多数学手段，包括**隐含马尔可夫模型**、**子波变换**、**贝叶斯网络**等等，在华尔街多有直接的应用。由此可见，数学模型的作用。 自从有了搜索引擎，就有了针对搜索引擎网页排名的作弊(SPAM)。
+	 - **最大熵模型**的计算量仍然是个拦路虎。我在学校时花了很长时间考虑如何简化最大熵模型的计算量。终于有一天，我对我的导师说，我发现一种数学变换，可以将大部分最大熵模型的训练时间在 IIS 的基础上减少两个数量级。我在黑板上推导了一个多小时，他没有找出我的推导中的任何破绽，接着他又回去想了两天，然后告诉我我的算法是对的。从此，我们就建造了一些很大的最大熵模型。这些模型比修修补补的凑合的方法好不少。即使在我找到了快速训练算法以后，为了训练一个包含上下文信息，主题信息和语法信息的文法模型(language model)，我并行使用了 20 台当时最快的 SUN 工作站，仍然计算了三个月。由此可见最大熵模型的复杂的一面。**最大熵模型快速算法的实现很复杂，到今天为止，世界上能有效实现这些算法的人也不到一百人。**有兴趣实现一个最大熵模型的读者可以阅读我的论文。
+	 - **LDC 语料库**
+	 - **布隆过滤器**
+		 - 布隆过滤器是由巴顿.布隆于一九七零年提出的。它实际上是一个很长的二进制向量和一系列随机映射函数。我们通过上面的例子来说明起工作原理。
+	 - **维特比算法**
  - 《[终极算法：机器学习和人工智能如何重塑世界](https://github.com/wangyu892449346/kindle-book/blob/master/%E7%BB%88%E6%9E%81%E7%AE%97%E6%B3%95%EF%BC%9A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%B8%96%E7%95%8C.azw)》
  - 《[程序员的数学思维修炼-趣味解读](https://github.com/wangyu892449346/kindle-book/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4%E4%BF%AE%E7%82%BC-%E8%B6%A3%E5%91%B3%E8%A7%A3%E8%AF%BB.mobi)》
  
-# <font color=blue>知乎</font>
+# 知乎
 
  - 《[深度学习的艺术：知乎采铜自选集 (知乎「盐」系列)](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%89%BA%E6%9C%AF%EF%BC%9A%E7%9F%A5%E4%B9%8E%E9%87%87%E9%93%9C%E8%87%AA%E9%80%89%E9%9B%86%20(%E7%9F%A5%E4%B9%8E%E3%80%8C%E7%9B%90%E3%80%8D%E7%B3%BB%E5%88%97)_B00OH7B740.azw3)》
  
-# <font color=blue>心理</font>
+# 心理
 
  - 《[天才在左疯子在右](https://github.com/wangyu892449346/kindle-book/blob/master/%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3.azw)》
  - 《[欧洲最受欢迎的思维方法（《赢者思维》精华本）](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%80%9D%E7%BB%B4%E6%96%B9%E6%B3%95%EF%BC%88%E3%80%8A%E8%B5%A2%E8%80%85%E6%80%9D%E7%BB%B4%E3%80%8B%E7%B2%BE%E5%8D%8E%E6%9C%AC%EF%BC%89.azw3)》
@@ -59,7 +72,7 @@
 	 - 冠军的目标是持久的、有活力的、清晰的、真实的。 
 	 - **形象化集中凝视技术可以影响你一整天。**
  
-# <font color=blue>文学</font>
+# 文学
 
  - 《[周国平：我的心灵自传](https://github.com/wangyu892449346/kindle-book/blob/master/%E5%91%A8%E5%9B%BD%E5%B9%B3%EF%BC%9A%E6%88%91%E7%9A%84%E5%BF%83%E7%81%B5%E8%87%AA%E4%BC%A0.mobi)》
  - 《[追风筝的人](https://github.com/wangyu892449346/kindle-book/blob/master/%E8%BF%BD%E9%A3%8E%E7%AD%9D%E7%9A%84%E4%BA%BA.azw)》
@@ -81,10 +94,10 @@
 	 - “难道老师在阅读同一本书时，会因为年纪不同，而有不同的想法吗？”男孩充满疑惑地提问。 “如果要真实呈现重读经典的心情，很像是张潮在《幽梦影》所说：‘**少年读书，如隙中窥月；中年读书，如庭中望月；老年读书，如台上玩月。皆以阅历之浅深，为所得之浅深耳。**’重读经典对我而言，似乎为生命带来不同的冲击与启发。”
  - 《[朱自清散文](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87.azw3)》
 
-# <font color=blue>面试</font>
+# 面试
 
   - 《[谁是谷歌想要的人才](https://github.com/wangyu892449346/kindle-book/blob/master/%E8%B0%81%E6%98%AF%E8%B0%B7%E6%AD%8C%E6%83%B3%E8%A6%81%E7%9A%84%E4%BA%BA%E6%89%8D-bda7.mobi)》
 
-# <font color=blue>小说</font>
+# 小说
 
  - 《[量子窃贼（The Quantum Thief）](https://github.com/wangyu892449346/kindle-book/blob/master/%E9%87%8F%E5%AD%90%E7%AA%83%E8%B4%BC%EF%BC%88The%20Quantum%20Thief%EF%BC%89.azw3)》
