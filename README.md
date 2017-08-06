@@ -57,6 +57,7 @@
 # 知乎
 
  - 《[深度学习的艺术：知乎采铜自选集 (知乎「盐」系列)](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%89%BA%E6%9C%AF%EF%BC%9A%E7%9F%A5%E4%B9%8E%E9%87%87%E9%93%9C%E8%87%AA%E9%80%89%E9%9B%86%20(%E7%9F%A5%E4%B9%8E%E3%80%8C%E7%9B%90%E3%80%8D%E7%B3%BB%E5%88%97)_B00OH7B740.azw3)》
+	 - 爱因斯坦的72法则，也是金融学上有名的“72法则”，是指“用72除以增长率（回报率）”可快速估计出投资倍增或减半所需的时间，反映出的是复利的结果。
  
 # 心理
 
@@ -101,3 +102,7 @@
 # 小说
 
  - 《[量子窃贼（The Quantum Thief）](https://github.com/wangyu892449346/kindle-book/blob/master/%E9%87%8F%E5%AD%90%E7%AA%83%E8%B4%BC%EF%BC%88The%20Quantum%20Thief%EF%BC%89.azw3)》
+ 
+# 历史
+
+ - 《[历史的起源与目标](https://github.com/wangyu892449346/kindle-book/blob/master/%E5%8E%86%E5%8F%B2%E7%9A%84%E8%B5%B7%E6%BA%90%E4%B8%8E%E7%9B%AE%E6%A0%87.azw)》
