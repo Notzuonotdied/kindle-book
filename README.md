@@ -106,3 +106,7 @@
 # 历史
 
  - 《[历史的起源与目标](https://github.com/wangyu892449346/kindle-book/blob/master/%E5%8E%86%E5%8F%B2%E7%9A%84%E8%B5%B7%E6%BA%90%E4%B8%8E%E7%9B%AE%E6%A0%87.azw)》
+ 
+ # 逻辑
+ 
+  - 《[逻辑大全](https://github.com/wangyu892449346/kindle-book/blob/master/%E9%80%BB%E8%BE%91%E5%A4%A7%E5%85%A8.azw)》
