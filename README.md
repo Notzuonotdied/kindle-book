@@ -14,6 +14,11 @@
  - 《[智能时代 (吴军)](https://github.com/wangyu892449346/kindle-book/blob/master/%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3.azw)》
 	 - 人类在机器智能领域的成就，其实就是**不断地把各种智能 问题转化成消除不确定性的问题**，然后再找到能够消除相应不确定性的信息， 如此而已。
 	 
+# 机器学习
+
+ - 《[终极算法：机器学习和人工智能如何重塑世界](https://github.com/wangyu892449346/kindle-book/blob/master/%E7%BB%88%E6%9E%81%E7%AE%97%E6%B3%95%EF%BC%9A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%B8%96%E7%95%8C.azw)》
+	 - [《终极算法：机器学习和人工智能如何重塑世界笔记》](http://blog.csdn.net/Notzuonotdied/article/details/77308855)
+
 # Linux
 
  - 《[鸟哥的私房菜（第四版）](https://github.com/wangyu892449346/kindle-book/blob/master/AZW3%E6%A0%BC%E5%BC%8F-%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%20%E7%AC%AC%E5%9B%9B%E7%89%88.azw3)》
